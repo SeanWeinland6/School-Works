@@ -1,0 +1,19 @@
+Username (not for points): jvd7y
+Assign_test.cpp: pass
+Back_test.cpp: pass
+Clear_test.cpp: pass
+CopyConstructor_test.cpp: pass
+Empty_test.cpp: pass
+Erase_test.cpp: pass
+Front_test.cpp: pass
+Insert_test.cpp: pass
+OpEqual_test.cpp: pass
+PopBack_test.cpp: pass
+PopFront_test.cpp: pass
+PushBack_test.cpp: pass
+PushFront_test.cpp: pass
+Remove_test.cpp: pass
+Reverse_test.cpp: pass
+Size_test.cpp: pass
+Username accurate (0 good, 1 bad): 1
+Bytes definitely lost (memory leak) (0 is perfect): 0

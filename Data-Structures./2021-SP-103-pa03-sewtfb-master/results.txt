@@ -1,0 +1,14 @@
+Username (not for points): mwcxp5
+at_end_test.cpp: pass
+build_matrix_test.cpp: pass
+fill_matrix_test.cpp: pass
+find_exit_test.cpp: pass
+find_start_test.cpp: pass
+Username accurate (0 good, 1 bad): 1
+Bytes definitely lost (memory leak) (0 is perfect): 0
+Main output diff size (0 is perfect): 0
+Runtime across many runs (lower better): 0.009784719534218311
+Print test (0 is good): 0
+
+
+More unit tests? No! What your code needs is petrol and a match.

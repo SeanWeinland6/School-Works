@@ -1,0 +1,16 @@
+Username (not for points): jvd7y
+at.cpp: pass
+clear.cpp: pass
+copyConstructor.cpp: pass
+count.cpp: pass
+empty.cpp: pass
+erase.cpp: pass
+find.cpp: pass
+get_letter_frequency.cpp: pass
+insert.cpp: pass
+operatorBracket.cpp: pass
+operatorEquals.cpp: pass
+size.cpp: pass
+Username accurate (0 good, 1 bad): 1
+Bytes definitely lost (memory leak) (0 is perfect): 0
+Print function (0 is perfect): 0

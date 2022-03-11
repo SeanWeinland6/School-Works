@@ -1,0 +1,19 @@
+Username (not for points): sewtfb
+at.cpp: pass
+clear.cpp: pass
+copy_constructor.cpp: pass
+count.cpp: pass
+default_constructor.cpp: pass
+empty.cpp: pass
+erase.cpp: pass
+find.cpp: pass
+insert.cpp: pass
+operator_bracket.cpp: pass
+operator_eq.cpp: pass
+reserve.cpp: pass
+size.cpp: pass
+virus.cpp: fail
+Username accurate (0 good, 1 bad): 0
+Bytes definitely lost (memory leak) (0 is perfect): 0
+time_tests/operator_bracket.cpp: 1.454086301997304
+Print function (0 is perfect): 0
