@@ -1,4 +1,4 @@
-# Three Types of importat algorithms:
+# Three Types of important algorithms:
 
 1. Knapsack (Greedy Approach)
 Complexity: O(nlog(n))
